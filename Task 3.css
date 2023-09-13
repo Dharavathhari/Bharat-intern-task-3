@@ -1,0 +1,17 @@
+my-video-conference/
+├── client/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── ...
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── VideoChat.js
+│   │   │   ├── TextChat.js
+│   │   │   └── ...
+│   │   ├── App.js
+│   │   └── ...
+├── server/
+│   ├── index.js
+│   └── ...
+├── package.json
+└── ...
